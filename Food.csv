@@ -1,0 +1,16 @@
+﻿ID,FoodItem,MinTemp,MaxTemp,ExpiryTime
+1,Strawberry,-2,14,3
+2,Avocado,8,19,5
+3,Spinach,-3,13,10
+4,Almond,-4,5,11
+5,Pumpkin,6,22,6
+6,Blueberry,3,13,3
+7,Sweet Potato,15,30,6
+8,Honey,2,15,10
+9,Coconut,5,25,11
+10,Lemon,-2,12,4
+11,Rice,7,17,15
+12,Quinoa,2,10,15
+13,Olive,10,27,12
+14,Oat,-1,17,14
+15,Walnut,5,23,8
